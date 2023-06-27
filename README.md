@@ -11,32 +11,16 @@ Please use the above links and use the download option on the left top as shown 
 <br>
 <br>
 
-<!-- ## Topics Covered
+## Topics Covered
 * Parts Of Excel (To get to know what to find where) 
 * Datatypes
 * Arithmetic Operations
 * Logical and Conditional Operations 
 * Formating and Conditional Formating
 * Absolute and Relative referencing
-* Understanding Excel Formula
+* <a href="https://medium.com/@amutheswaran/how-to-remember-spreadsheet-formulas-more-effectively-c4cafe29629" target="_blank">Understanding Excel Formula</a>
 * Text Formulas
 * Date and Time Formulas
 * Vlookup
 * Shortcut Keys
-* Pivot Tables -->
-
-
-Topics Covered |
--------------
-Parts Of Excel (To get to know what to find where)
-Datatypes
-Arithmetic Operations
-Logical and Conditional Operations 
-Formating and Conditional Formatting
-Absolute and Relative referencing
-Understanding Excel Formulas
-Text Formulas
-Date and Time Formulas
-Vlookup
-Shortcut Keys
-Pivot Tables
+* Pivot Tables
