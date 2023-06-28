@@ -4,7 +4,7 @@
 [Practice Workbook](https://github.com/AmuthesWaran/microsoft-excel-tutorial-beginner/blob/main/excel-beginner-tutorial_workout.xlsx) <br>
 [Solution Workbook](https://github.com/AmuthesWaran/microsoft-excel-tutorial-beginner/blob/main/excel-beginner-tutorial_solution.xlsx)
 
-Please use the above links and use the download option on the left top as shown below
+Please use the above links to download the respective workbooks as shown below
 <br>
 <br>
 <img src="https://github.com/AmuthesWaran/microsoft-excel-tutorial-beginner/assets/79437368/c3e65893-d50b-4412-924e-74488aa1a985" alt="download option" width="500"/>
@@ -12,7 +12,7 @@ Please use the above links and use the download option on the left top as shown 
 <br>
 
 ## Topics Covered
-* Parts Of Excel (To get to know what to find where) 
+* Parts Of Excel (To get to know what to find where and how it is called) 
 * Datatypes
 * Arithmetic Operations
 * Logical and Conditional Operations 
