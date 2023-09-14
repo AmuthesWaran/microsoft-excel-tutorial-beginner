@@ -13,10 +13,10 @@ Please click on the respective workbook links and download using the download ic
 
 ## Topics Covered
 * Parts Of Excel (To get to know what to find where and how it is called) 
-* Data types
+* Data types (and it's visual representation)
 * Arithmetic Operations
 * Logical and Conditional Operations 
-* Formating and Conditional Formating
+* Formatting and Conditional Formatting
 * Absolute and Relative referencing
 * <a href="https://medium.com/@amutheswaran/how-to-remember-spreadsheet-formulas-more-effectively-c4cafe29629" target="_blank">Understanding Excel Formula</a>
 * Text Formulas
