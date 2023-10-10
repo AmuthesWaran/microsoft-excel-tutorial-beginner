@@ -24,6 +24,7 @@ Please click on the respective workbook links (right-click and open in new tab) 
 * Vlookup
 * Shortcut Keys
 * Pivot Tables
+* and more...
   <br>
 ## Wanna read on how to understand Excel Formulas?
 Read my blog on <a href="https://medium.com/@amutheswaran/how-to-remember-spreadsheet-formulas-more-effectively-c4cafe29629" target="_blank">medium.com</a> titled <b>How to remember spreadsheet formulas more effectively</b>
