@@ -23,6 +23,7 @@ Please click on the respective workbook links (right-click and open in new tab) 
 * Date and Time Formulas
 * Vlookup
 * Shortcut Keys
+* Use of Tables
 * Pivot Tables
 * and more...
   <br>
